@@ -1,4 +1,5 @@
 To run the 2nd part of the project type the below mentioned line in Terminal
+
 python3.8 DV0101EN-Final-Assign-Part-2-Questions.py
 
 
